@@ -1,6 +1,6 @@
 
 # <font color="#FF0055">Eternal - Vulnyx</font>
-$$\color{Cardinal Red}{Violet}$$ 
+$$\color{Cherry}{Violet}$$ 
 
 - **OS:** Windows - **Difficulty:** Easy / Low 
 - **IP:** `192.168.1.X` 
