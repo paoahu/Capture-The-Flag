@@ -1,5 +1,5 @@
 
- <span style="color: FireBrick;  font-weight: bold;">Eternal - Vulnyx</span>
+# <font color="#FF0055">Eternal - Vulnyx</font>
 
 - **OS:** Windows - **Difficulty:** Easy / Low 
 - **IP:** `192.168.1.X` 
@@ -103,4 +103,4 @@ dir
 ```
 
 Both flags (`user.txt` and `root.txt`) are located on the user **MIKE**'s Desktop.
- $$\color{violet}{Violet}$$
+
