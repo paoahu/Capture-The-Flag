@@ -103,3 +103,4 @@ dir
 ```
 
 Both flags (`user.txt` and `root.txt`) are located on the user **MIKE**'s Desktop.
+ $$\color{violet}{Violet}$$
