@@ -1,15 +1,18 @@
 
+Markdown
 # <font color="#FF0055">Eternal - Vulnyx</font>
-$$\color{Cherry}{Violet}$$ 
 
-- **OS:** Windows - **Difficulty:** Easy / Low 
-- **IP:** `192.168.1.X` 
+- **OS:** Windows
+- **Difficulty:** <font color="#DC143C">Easy / Low</font>
+- **IP:** `192.168.1.X`
 - **Release Date:** 2024-02-03
-- **Target:** User Flag & Root Flag (NT AUTHORITY\SYSTEM) 
+- **Target:** User Flag & Root Flag (NT AUTHORITY\SYSTEM)
 
 ---
 
- <span style="color: IndianRed; font-weight: bold;">Phase 1: Reconnaissance & Enumeration</span>
+## <font color="#FF0055">Phase 1: Reconnaissance & Enumeration</font>
+
+### <font color="#DC143C">1.1 Port Scanning (Nmap)</font>
 
 **1.1 Port Scanning (Nmap)**
 
