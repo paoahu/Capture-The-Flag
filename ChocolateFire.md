@@ -13,7 +13,7 @@
 **1.1 Port Scanning (Nmap)**
 
 ```
-nmap -p- --open -sS -sC -sV --min-rate 2000 -n -vvv -Pn 172.17.0.2
+nmap -p- --open -sS -sC -sV --min-rate 2000 -n -vvv -Pn 172.17.0.2 
 ```
 
 We discovered that the host  <span style="color: IndianRed; font-weight: bold;">172.17.0.2</span> is active and has port 9090 (HTTP) open. 
