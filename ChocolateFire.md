@@ -18,7 +18,7 @@ nmap -p- --open -sS -sC -sV --min-rate 2000 -n -vvv -Pn 172.17.0.2
 
 We discovered that the host  <span style="color: IndianRed; font-weight: bold;">172.17.0.2</span> is active and has port 9090 (HTTP) open. 
 
-![[Captura de pantalla 2026-09-30 a las 20.22.51.png]]
+
 
 Comprobamos que está corriendo por ese puerto y es Openfire v4.7.4
 
@@ -47,7 +47,7 @@ cd /home
 ```
 
 
-![[Captura de pantalla 2026-09-30 a las 21.20.27.png]]
+
 
 
 
